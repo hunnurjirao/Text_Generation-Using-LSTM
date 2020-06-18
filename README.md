@@ -1,2 +1,2 @@
-# Text_Generation-Using-RNN
-Text generation using RNN
+# Text_Generation-Using-BiDirectional LSTM
+Text generation using BiDirectional LSTM
